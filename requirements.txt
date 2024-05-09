@@ -1,0 +1,10 @@
+pandas
+hyperopt
+numpy
+xgboost
+scikit-learn
+pyyaml>=5.1
+matplotlib
+seaborn
+jupyter
+
